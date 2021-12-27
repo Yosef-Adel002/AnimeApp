@@ -1,0 +1,34 @@
+.homeimg {
+  width: 100%;
+  z-index: -1;
+  margin-bottom: -50px;
+}
+
+.bannerfade {
+  height: 6rem;
+  background-image: linear-gradient(
+    1800deg,
+    transparent,
+    rgb(57, 70, 141),
+    rgb(255, 255, 255)
+  );
+}
+
+.row {
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.title {
+  margin-bottom: 10px;
+  display: block;
+  color: white;
+  height: 50px;
+  width: 90%;
+  background-color: rgb(57, 70, 141);
+  border-radius: 20px;
+  align-items: center;
+  text-align: center;
+}

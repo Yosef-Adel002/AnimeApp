@@ -1,0 +1,33 @@
+.animeD {
+  width: 100%;
+  padding-top: 70px;
+  display: block;
+  flex-wrap: wrap;
+  overflow: hidden;
+  align-items: center;
+  text-align: center;
+}
+.animeimage {
+  display: inline-block;
+  border-radius: 20px;
+  width: 80%;
+}
+.animeD img {
+  width: 100%;
+  object-fit: contain;
+}
+.black {
+  color: black;
+}
+.name h2 {
+  color: black;
+  margin-right: auto;
+}
+.descreption p {
+  color: black;
+  padding: 15px;
+}
+
+.btn {
+  width: 100px;
+}

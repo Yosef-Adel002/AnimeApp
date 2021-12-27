@@ -1,0 +1,26 @@
+.card {
+  width: 150px;
+  height: 250px;
+  overflow: hidden;
+  transition: 0.4s;
+  display: inline-block;
+  color: black;
+  margin-bottom: 15px;
+  border: black;
+  border: thick;
+  margin: 15px;
+}
+.img {
+  width: 100%;
+}
+
+.card img {
+  height: 200px;
+  object-fit: contain;
+  object-position: center;
+  display: block;
+}
+
+.details h3 {
+  color: black;
+}
